@@ -1,0 +1,18 @@
+.videoSidebar {
+ padding: 10px;
+ top: 50%;
+ left: 85%;
+ position: absolute;
+}
+
+.videoSidebar div .loveIcon {
+ font-size: 28px;
+ cursor: pointer;
+}
+.videoSidebar div .messageIcon {
+ cursor: pointer;
+}
+
+.videoSidebar div .shareIcon {
+ cursor: pointer;
+}

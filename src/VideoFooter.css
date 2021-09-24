@@ -1,0 +1,41 @@
+.videoFooter {
+  position: relative;
+  color: white;
+  bottom: 170px;
+  align-items: center;
+  justify-content: center;
+}
+
+.videoFooter h5 {
+  letter-spacing: 1px;
+}
+
+.videoFooter p {
+  font-size: 14px;
+}
+
+.videoFooter marquee {
+  font-size: 14px;
+}
+
+.videoFooter div {
+  justify-content: space-between;
+}
+
+.videoFooter div div {
+  justify-content: start;
+}
+
+.videoFooter div .img {
+  filter: invert(1);
+  animation: animate infinite linear 5s;
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
