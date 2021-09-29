@@ -38,7 +38,7 @@ const App = () => {
           />
           <Video
             username="@WildandOutGroups"
-            url={process.env.PUBLIC_URL + "/img/a.mp4"}
+            url={process.env.PUBLIC_URL + "/img/f.mp4"}
             description="#wildnout #daily_lyrics #mtv #laylay #dcyoungfly #foryoupage #fyp #fypシ"
             lyrics="salamay isk isk isk , salamya isk....."
           />
